@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'am Jorge Luis Nuñez Nuñez</h1>
+<h1 align="center">Hi 👋, I'am Jorge Nuñez</h1>
 <h3 align="center">Full Stack developer - Front end / Back end</h3>
 
 - 🌱 I’m currently learning **TypeScript - MongoDb**
