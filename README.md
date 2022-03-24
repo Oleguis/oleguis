@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anjevvjl@gmail.com**
 
-<h3 align="left">Connect with me: Teléfono: +57 302 282579</h3>
+<h3 align="left">Connect with me: Teléfono: +57 302 8282579</h3>
 <p align="left">
 </p>
 
